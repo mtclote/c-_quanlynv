@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\BTVN\ctdltt\quanlynv\quanlynv\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  quanlynv.vcxproj -> D:\BTVN\ctdltt\quanlynv\x64\Debug\quanlynv.exe
